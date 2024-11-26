@@ -18,6 +18,6 @@ class Program
     }
 }
 ---
-!imagendeprueba(imagen_practica)
+![imagendeprueba](imagen practica.jpg)
 
 # Autor: Agustin Sagredo Sanchez
