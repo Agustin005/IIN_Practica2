@@ -18,6 +18,6 @@ class Program
     }
 }
 ---
-![imagendeprueba](imagen practica.jpg)
+![imagendeprueba]("C:\Users\agus0\IIN_Practica2\imagen_practica.jpg")
 
 # Autor: Agustin Sagredo Sanchez
